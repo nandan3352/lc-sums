@@ -1,8 +1,7 @@
 {
   "name": "lc",
-  "homepage" : "https://nandan3352.github.io/https---github.com-nandan3352-lc-sums",
   "version": "0.1.0",
-  "private": true,
+  "private":true,
   "dependencies": {
     "axios": "^1.7.9",
     "cra-template": "1.2.0",
@@ -15,8 +14,6 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
