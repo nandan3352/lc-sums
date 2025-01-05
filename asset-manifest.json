@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lc-sums/static/css/main.49f2e5bb.css",
+    "main.js": "/lc-sums/static/js/main.b6f886a6.js",
+    "index.html": "/lc-sums/index.html",
+    "main.49f2e5bb.css.map": "/lc-sums/static/css/main.49f2e5bb.css.map",
+    "main.b6f886a6.js.map": "/lc-sums/static/js/main.b6f886a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49f2e5bb.css",
+    "static/js/main.b6f886a6.js"
+  ]
+}
